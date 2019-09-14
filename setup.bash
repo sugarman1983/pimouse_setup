@@ -1,5 +1,4 @@
 #!/bin/bash -xve
-#Written by Jin Sato
 
 exec 2> /tmp/setup.log
 
